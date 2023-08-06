@@ -1,5 +1,5 @@
 # Blog
-I have complete my 2nd task of my internship as a full stack web developer.
+I have complete my 1nd task of my internship as a full stack web developer.
 
 Title: Blog Application 
 
