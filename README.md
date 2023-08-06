@@ -15,4 +15,4 @@ User can edite and delete their onw blog. but can not change other users blog.
 
 And last but not the least in the app have a beautiful About page and footer. And in the about page I have mention all my social media link So that User can recognize us.
 
-linkdin link- https://www.linkedin.com/posts/aryan-patel-97623127b_i-have-complete-my-2nd-task-of-my-internship-activity-7093487787240304640-Az0N?utm_source=share&utm_medium=member_desktop
+linkdin link- [https://www.linkedin.com/feed/update/urn:li:activity:7093854493804511232/] Video on linkedin
