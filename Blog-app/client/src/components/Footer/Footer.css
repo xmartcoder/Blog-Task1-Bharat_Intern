@@ -1,0 +1,9 @@
+.Footer{
+    align-items: center;
+    text-align: center;
+    border-top: 2px solid rgb(161, 122, 122);
+    font-size: 22px;
+    width: 1200px;
+    margin-left: 150px;
+    margin-top: 50px;
+   }

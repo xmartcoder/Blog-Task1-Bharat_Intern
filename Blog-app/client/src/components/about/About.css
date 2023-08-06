@@ -1,0 +1,112 @@
+.About {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .big{
+    margin-top: 100px;
+  }
+  
+  .aboutText h1 {
+    font-size: 28px;
+    margin-left: 400px;
+    margin-top: -20px;
+    font-weight: bold;
+    position: absolute;
+    z-index: 10;
+    background: -webkit-linear-gradient( #33ccff ,#ff99cc );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  
+  .aboutText span {
+    font-family: "Lumanosimo", cursive;
+    font-size: 48px;
+    font-weight: bolder;
+    margin-left: 450px;
+    margin-top: 0px;
+    position: absolute;
+    z-index: 10;
+    background: -webkit-linear-gradient( #33ccff ,#ff99cc );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    object-fit: contain;
+  }
+  
+  .AboutImg img {
+    margin-left: 150px;
+    margin-top: 30px;
+    height: 500px;
+    width: 1200px;
+    border-radius: 20px;
+    z-index: 9;
+    position: relative;
+    object-fit: cover;
+    position: top;
+  }
+  
+  .BigDecs{
+      margin-top: 100px;
+  }
+  
+  .BigTitle{
+   
+    
+      margin-left: 600px;
+      font-size: 58px;
+      font-family: 'Lato', sans-serif;
+      font-weight: 700;
+  }
+  
+  .AboutDet{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+  }
+  
+  #About-Img{
+    width: 35%;
+    height: 100%;
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-top: 60px;
+  }
+  
+  #Depth{
+    width: 800px;
+    margin-left: 100px;
+    margin-top: 50px;
+  }
+  
+  .SidebarItem{
+    position: absolute;
+    margin-top: 500px;
+    margin-left: 50px;
+  }
+  
+  .SidebarTitle{
+    font-size: 42px;
+    margin-left: 48px;
+    width: 400px;
+    color: black;
+  }
+  
+  .SidebarSocial{
+    margin-left: 10px;
+    width: 500px;
+    
+    
+  }
+  
+  .SidebarSocial a{
+    color: black;
+  }
+  .SidebarIcon{
+    font-size: 38px;
+    margin-top: 10px;
+    margin-left: 24px;
+    cursor: pointer;
+    color:black;
+  }
+  
+  

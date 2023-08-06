@@ -1,0 +1,40 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Lumanosimo&display=swap');
+
+.header {
+  margin-top: 60px;
+}
+
+.headerTitles {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: "Lora", serif;
+  color: #444;
+}
+
+.headerTitleSm {
+  position: absolute;
+  top: 16%;
+  font-size: 20px;
+  font-size: 28px;
+font-weight: 100;
+font-family: 'Lumanosimo', cursive;
+}
+
+.headerTitleLg {
+  position: absolute;
+  top: 18%;
+  font-size: 100px;
+  background: -webkit-linear-gradient( rgb(139, 113, 113) ,#f4c2d5  );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+   
+}
+
+.headerImg{
+    width: 100%;
+    height: 450px;
+    margin-top: 80px;
+    object-fit: cover;
+}
